@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Real-time Stats
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=coderRj42&count_private=true" width = 400>
   <br><br>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=coderRj42" width = 400>
 </p>
