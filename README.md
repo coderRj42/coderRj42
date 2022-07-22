@@ -37,6 +37,8 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349404/heroku.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Real-time Stats
