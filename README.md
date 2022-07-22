@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nagarajpandith&count_private=true" width = 400>
   <br><br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=nagarajpandith" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=coderRj42" width = 400>
 </p>
-
-<p align = "center">
- <img src = "https://img.shields.io/youtube/channel/views/UCGdfbV6KfEmSKlezs4EsEFw" width="150">
- <br><br>
- <img src = "https://img.shields.io/youtube/channel/subscribers/UCGdfbV6KfEmSKlezs4EsEFw?style=social" width="200">
-</p>
+ 
