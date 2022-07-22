@@ -2,10 +2,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 </div>
 <img align="center" alt="GIF" height="200px" width="300px" src='https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true' />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/coderRj42/count.svg" />
-</p>
 
 ![](https://komarev.com/ghpvc/?username=coderRj42&color=brightgreen)
 
@@ -23,8 +19,8 @@ Here is a list of the technologies that I'm familar with!
 <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src=" https://www.svgrepo.com/svg/303656/php-logo" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
-<img src="https://www.svgrepo.com/svg/303654/java-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
+<img src="https://www.svgrepo.com/show/314464/php.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
+<img src="https://www.svgrepo.com/show/303654/java-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
 </p>
 
 ## Frameworks, Libraries & Databases
